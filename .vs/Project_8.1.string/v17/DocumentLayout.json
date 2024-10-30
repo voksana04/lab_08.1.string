@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Project_8.1.string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{572FB9B3-1728-4979-B4C8-49866CE714FC}|Project_8.1.string\\Project_8.1.string.vcxproj|C:\\Users\\admin\\source\\repos\\Project_8.1.string\\Project_8.1.string\\lab_8.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{572FB9B3-1728-4979-B4C8-49866CE714FC}|Project_8.1.string\\Project_8.1.string.vcxproj|solutionrelative:Project_8.1.string\\lab_8.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C9066-E711-47DE-BFF8-00B26CAF55E4}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\admin\\source\\repos\\Project_8.1.string\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{013C9066-E711-47DE-BFF8-00B26CAF55E4}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_8.1.string\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_8.1.string\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T18:47:40.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_8.1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_8.1.string\\Project_8.1.string\\lab_8.1.cpp",
+              "RelativeDocumentMoniker": "Project_8.1.string\\lab_8.1.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_8.1.string\\Project_8.1.string\\lab_8.1.cpp",
+              "RelativeToolTip": "Project_8.1.string\\lab_8.1.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAADsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T18:44:06.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
